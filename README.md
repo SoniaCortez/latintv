@@ -32,7 +32,7 @@ Esto nos permitió como equipo, plantear como propuesta una plataforma web espec
 
 ***PÚBLICO OBJETIVO***
 
-Nuestro público objetivo son todas las Agencias de publicidad y/o anunciantes que existen en el medio. En esta etapa inicial del proyecto trabajaremos con aquellos que ya se encuentran en la base de datos de Latin TV y que ya han realizado pautas publicitarias con este canal. Entre sus principales necesidades está el conocer los programas con mejor raiting, el público al que están dirigidos y sintonizan dichos programas y paquetes de pauta adecuados a la necesidad de cada uno de sus clientes. Poseen conocimiento tecnológico alto, así como manejo del entorno digital y las redes sociales.
+Nuestro público objetivo son todas las Agencias de publicidad y/o anunciantes que existen en el medio. En esta etapa inicial del proyecto trabajaremos con aquellos que ya se encuentran en la base de datos de Latin TV y que ya han realizado pautas publicitarias con este canal. Entre sus principales necesidades está el conocer los programas con mejor rating, el público al que están dirigidos y sintonizan dichos programas y paquetes de pauta adecuados a la necesidad de cada uno de sus clientes. Poseen conocimiento tecnológico alto, así como manejo del entorno digital y las redes sociales.
 
 
 
