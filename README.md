@@ -33,35 +33,35 @@ Nuestra propuesta es una plataforma web especializada cuyo objetivo principal es
 
 1. Nuestro página principal mostrará al anunciante los diferentes programas que el canal transmite, divididos en tres tipos de tarifas (Básica, Prime y Super Prime) para su fácil identificación. Dentro de cada sección podrá visualizar el nombre, horario, día y target de cada uno de los programas junto con el monto regular a pagar por dicho espacio.
 
-<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/Home.jpg" width="700">
+<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/Home.jpg" width="800">
 
 
-<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/tarifas%20programas.jpg" width="700">
+<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/tarifas%20programas.jpg" width="800">
 
 2. En nuestra vista principal también tendremos la sección de "ingresar" ubicada en la barra de navegación, donde los anunciantes podran acceder con su correo electrónico registrado en nuestra base de datos y comprar el espacio publicitario que elijan. A futuro se habilitará la opción de "Registrarse", para todas aquellas marcas nuevas que desean tener una pauta publicitaria con Latin TV.
 
-<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/Ingresar.jpg" width="700">
+<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/Ingresar.jpg" width="800">
 
 3. Para que nuestros anunciantes puedan resolver cualquier duda con respecto a las tarifas, recargos, horarios, etc. hemos implementado la opción de "Preguntas frecuentes" con acceso a un chatbot amigable y listo para responder 24/7.
 
-<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/chatbot%20home.jpg" width="700">
+<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/chatbot%20home.jpg" width="800">
 
 4. Para asegurarnos que nuestro usuario tengan toda la información del espacio publicitario que está registrando, nuestra sección de "reserva" a la que accede una vez iniciada su sesión, le permite seleccionar la marca, anunciante o agencia que va a realizar la pauta, el programa en el que desea anunciar y cuyo público objetivo es el más adecuado para él, el día en el que la publicidad debe emitirse, que debe ser posterior a la fecha en la que está realizando su solicitud y el horario exacto (en intervalo de 10 minutos) que se lanzará al aire. Terminado este proceso el anunciante podrá visualizar un modal donde se le indica cada uno de los puntos anteriores y además se le muestra el monto total a pagar, incluído el IGV y el datalle de cualquier cobro o recargo adicional que se le esté aplicando. Esto permitirá que el usuario tenga claro todos los puntos importantes de su elección y el dinero que debe abonar al canal televisivo. Si en el momento de visualizar el modal, nuestro anunciante prefiere seleccionar otro programa o hacer un cambio de horario, tendrá habilitada la opción de "editar reserva".
 
-<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/Reserva%20publicidad.jpg" width="700">
+<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/Reserva%20publicidad.jpg" width="800">
 
 
-<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/modal%20reserva.jpg" width="700">
+<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/modal%20reserva.jpg" width="800">
 
 5. Una vez aceptada y aplicada la reserva nuestro anunciante podrá visualizar en un calendario los datos de su pauta publicitaria. El día en que saldrá al aire su spot televisivo estará en color gris, si el horario en que gestionó la reserva fue entre las 8:00 am y las 12 del mediodía, de color rojo si la reserva se llevó a cabo entre las 12:01 pm hasta las 4:00 pm y de color azul si fue solicitada desde las 4:00 pm en adelante. Para finalizar, mostraremos confirmación y frase de agradecimiento.
 
-<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/calendario1.jpg" width="700">
+<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/calendario1.jpg" width="800">
 
 
-<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/calendario2.jpg" width="700">
+<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/calendario2.jpg" width="800">
 
 
-<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/modal%20final.jpg" width="700">
+<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/modal%20final.jpg" width="800">
 
 ***CONCLUSIONES***
 
