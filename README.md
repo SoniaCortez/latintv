@@ -69,7 +69,7 @@ Nuestra propuesta es una plataforma web especializada cuyo objetivo principal es
 
 
 
-3. Para que nuestros anunciantes puedan resolver cualquier duda con respecto a las tarifas, recargos, horarios, etc. hemos implementado la opción de "Preguntas frecuentes" con acceso a un chatbot amigable y listo para responder 24/7.
+3. Para que nuestros anunciantes puedan resolver cualquier duda con respecto a las tarifas, recargos, horarios, etc. hemos implementado en nuestra página principal, un botón flotante con acceso a un chatbot amigable y listo para responder 24/7.
 
 
 
