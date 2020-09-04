@@ -33,6 +33,8 @@ Nuestra propuesta es una plataforma web especializada cuyo objetivo principal es
 
 1. Nuestro página principal mostrará al anunciante los diferentes programas que el canal transmite, divididos en tres tipos de tarifas (Básica, Prime y Super Prime) para su fácil identificación. Dentro de cada sección podrá visualizar el nombre, horario, día y target de cada uno de los programas junto con el monto regular a pagar por dicho espacio.
 
+<img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/Home.jpg" width="300">
+
 2. En nuestra vista principal también tendremos la sección de "ingresar" ubicada en la barra de navegación, donde los anunciantes podran acceder con su correo electrónico registrado en nuestra base de datos y comprar el espacio publicitario que elijan. A futuro se habilitará la opción de "Registrarse", para todas aquellas marcas nuevas que desean tener una pauta publicitaria con Latin TV.
 
 3. Para que nuestros anunciantes puedan resolver cualquier duda con respecto a las tarifas, recargos, horarios, etc. hemos implementado la opción de "Preguntas frecuentes" con acceso a un chatbot amigable y listo para responder 24/7.
