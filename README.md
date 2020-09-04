@@ -1,4 +1,5 @@
-## Latin TV ##
+# Latin TV #
+
 
 ***CONTEXTO***
 
@@ -9,9 +10,13 @@ Dentro de este contexto y con las medidas de aislamiento, tener la posibilidad d
 
 Es por esto, que Latin TV, tercer canal comercial del país, apunta a ser el primer canal de televisión en Perú, en ofrecer este servicio. Nuestro desafío es crear una plataforma que permita a los anunciantes o agencias de publicidad comprar espacios de pauta publicitaria conociendo los programas, días de emisión y horarios disponibles para esta acción, de forma totalmente digital.
 
+
+
 ***IDENTIFICACIÓN DEL PROBLEMA***
 
 En base a todo lo antes expuesto y después de la etapa de research, donde realizamos entrevistas con varios integrantes de los departamentos de medios de diversas agencias de publicidad digitales y tradicionales; nuestro squad logró identificar que el principal problema que enfrentan los encargados de comprar y negociar las pautas publicitarias, es desconocer el target de los programas que se transmiten en el canal televisivo, dificultando la selección idónea de los mismos, pues no tienen la certeza de llegar al público objetivo que sus clientes necesitan. Una asesoría, guía u orientación de los mejores programas para anunciar determinados productos sería de gran ayuda para ellos.
+
+
 
 ***ETAPA DE IDEACIÓN***
 
@@ -23,9 +28,13 @@ Después de analizar todos los datos obtenidos e identificar claramente el probl
 
 Esto nos permitió como equipo, plantear como propuesta una plataforma web especializada en este proceso, donde el anunciante pueda acceder a todo lo necesario antes de seleccionar el programa y horario donde colocará su spot de 30". Definimos que los puntos más importantes serían el acceso rápido y eficiente, la información clara y la navegación intuitiva de nuestra página. 
 
+
+
 ***PÚBLICO OBJETIVO***
 
 Nuestro público objetivo son todas las Agencias de publicidad y/o anunciantes que existen en el medio. En esta etapa inicial del proyecto trabajaremos con aquellos que ya se encuentran en la base de datos de Latin TV y que ya han realizado pautas publicitarias con este canal. Entre sus principales necesidades está el conocer los programas con mejor raiting, el público al que están dirigidos y sintonizan dichos programas y paquetes de pauta adecuados a la necesidad de cada uno de sus clientes. Poseen conocimiento tecnológico alto, así como manejo del entorno digital y las redes sociales.
+
+
 
 ***PROPUESTA Y PROTOTIPADO***
 
@@ -34,11 +43,18 @@ Nuestra propuesta es una plataforma web especializada cuyo objetivo principal es
 1. Nuestro página principal mostrará al anunciante los diferentes programas que el canal transmite, divididos en tres tipos de tarifas (Básica, Prime y Super Prime) para su fácil identificación. Dentro de cada sección podrá visualizar el nombre, horario, día y target de cada uno de los programas, junto con el monto regular a pagar por dicho espacio.
 
 
+
 <img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/Home.jpg" width="800">
 
 
 
+
+
 <img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/tarifas%20programas.jpg" width="800">
+
+
+
+
 
 
 
@@ -56,11 +72,20 @@ Nuestra propuesta es una plataforma web especializada cuyo objetivo principal es
 
 
 
+
+
+
+
 3. Para que nuestros anunciantes puedan resolver cualquier duda con respecto a las tarifas, recargos, horarios, etc. hemos implementado la opción de "Preguntas frecuentes" con acceso a un chatbot amigable y listo para responder 24/7.
 
 
 
 <img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/chatbot%20home.jpg" width="800">
+
+
+
+
+
 
 
 
@@ -75,7 +100,12 @@ Nuestra propuesta es una plataforma web especializada cuyo objetivo principal es
 
 
 
+
 <img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/modal%20reserva.jpg" width="800">
+
+
+
+
 
 
 
@@ -90,7 +120,9 @@ Nuestra propuesta es una plataforma web especializada cuyo objetivo principal es
 
 
 
+
 <img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/calendario2.jpg" width="800">
+
 
 
 
