@@ -1,8 +1,6 @@
 # Latin TV #
 
 
-
-
 ***CONTEXTO***
 
 La publicidad es mucho más que "anuncios", es información, comunicación y poder. Pero sobre todo, y desde el punto de vista socioeconómico, la publicidad se configura como una potente industria que cuenta con una estructura propia. 
@@ -14,15 +12,9 @@ Es por esto, que Latin TV, tercer canal comercial del país, apunta a ser el pri
 
 
 
-
-
-
 ***IDENTIFICACIÓN DEL PROBLEMA***
 
 En base a todo lo antes expuesto y después de la etapa de research, donde realizamos entrevistas con varios integrantes de los departamentos de medios de diversas agencias de publicidad digitales y tradicionales; nuestro squad logró identificar que el principal problema que enfrentan los encargados de comprar y negociar las pautas publicitarias, es desconocer el target de los programas que se transmiten en el canal televisivo, dificultando la selección idónea de los mismos, pues no tienen la certeza de llegar al público objetivo que sus clientes necesitan. Una asesoría, guía u orientación de los mejores programas para anunciar determinados productos sería de gran ayuda para ellos.
-
-
-
 
 
 
@@ -38,15 +30,9 @@ Esto nos permitió como equipo, plantear como propuesta una plataforma web espec
 
 
 
-
-
-
 ***PÚBLICO OBJETIVO***
 
 Nuestro público objetivo son todas las Agencias de publicidad y/o anunciantes que existen en el medio. En esta etapa inicial del proyecto trabajaremos con aquellos que ya se encuentran en la base de datos de Latin TV y que ya han realizado pautas publicitarias con este canal. Entre sus principales necesidades está el conocer los programas con mejor raiting, el público al que están dirigidos y sintonizan dichos programas y paquetes de pauta adecuados a la necesidad de cada uno de sus clientes. Poseen conocimiento tecnológico alto, así como manejo del entorno digital y las redes sociales.
-
-
-
 
 
 
@@ -73,26 +59,11 @@ Nuestra propuesta es una plataforma web especializada cuyo objetivo principal es
 
 
 
-
-
-
-
-
-
-
 2. En nuestra vista principal también tenemos la sección "ingresar" ubicada en la barra de navegación, donde los anunciantes podran acceder con su correo electrónico registrado en la base de datos del canal y comprar el espacio publicitario que elijan. A futuro se habilitará la opción de "Registrarse", para todas aquellas nuevas marcas que desean tener una pauta publicitaria con Latin TV.
 
 
 
 <img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/Ingresar.jpg" width="800">
-
-
-
-
-
-
-
-
 
 
 
@@ -110,17 +81,7 @@ Nuestra propuesta es una plataforma web especializada cuyo objetivo principal es
 
 
 
-
-
-
-
-
-
-
-
-
 4. Para asegurarnos que nuestro usuario tengan toda la información del espacio publicitario que está registrando, nuestra sección de "reserva" a la que accede una vez iniciada su sesión, le permite seleccionar la marca, anunciante o agencia que va a realizar la pauta, el programa en el que desea anunciar y cuyo público objetivo es el más adecuado para él, el día en el que la publicidad debe emitirse, que debe ser posterior a la fecha en la que está realizando su solicitud y el horario exacto (en intervalo de 10 minutos) que se lanzará al aire. Terminado este proceso el anunciante podrá visualizar un modal donde se le indica cada uno de los puntos anteriores y además se le muestra el monto total a pagar, incluído el IGV y el datalle de cualquier cobro o recargo adicional que se le esté aplicando. Esto permitirá que el usuario tenga claro todos los puntos importantes de su elección y el dinero que debe abonar al canal televisivo. Si en el momento de visualizar el modal, nuestro anunciante prefiere seleccionar otro programa o hacer un cambio de horario, tendrá habilitada la opción de "editar reserva".
-
 
 
 
@@ -136,17 +97,7 @@ Nuestra propuesta es una plataforma web especializada cuyo objetivo principal es
 
 
 
-
-
-
-
-
-
-
-
 5. Una vez aceptada y aplicada la reserva nuestro anunciante podrá visualizar en un calendario los datos de su pauta publicitaria. El día en que saldrá al aire su spot televisivo estará en color gris, si el horario en que gestionó la reserva fue entre las 8:00 am y las 12 del mediodía, de color rojo si la reserva se llevó a cabo entre las 12:01 pm hasta las 4:00 pm y de color azul si fue solicitada desde las 4:00 pm en adelante. Para finalizar, mostraremos confirmación y frase de agradecimiento.
-
-
 
 
 
@@ -161,9 +112,6 @@ Nuestra propuesta es una plataforma web especializada cuyo objetivo principal es
 
 
 <img src="https://github.com/SoniaCortez/latintv/blob/master/capturas/modal%20final.jpg" width="800">
-
-
-
 
 
 
